@@ -1,0 +1,19 @@
+{
+  "name": "91app",
+  "version": "1.0.0",
+  "description": "Implement a set of APIs designed to enable users to batch upload large data volumes, ensuring data item counts are accurate.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommyfufu/91app.git"
+  },
+  "author": "whh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommyfufu/91app/issues"
+  },
+  "homepage": "https://github.com/tommyfufu/91app#readme"
+}
