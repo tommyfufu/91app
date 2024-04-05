@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/tommyfufu/91app/issues"
   },
-  "homepage": "https://github.com/tommyfufu/91app#readme"
+  "homepage": "https://github.com/tommyfufu/91app#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "readline-sync": "^1.4.10",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
 }
