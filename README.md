@@ -1,6 +1,6 @@
-# Batch Data Uploader - 91App
+# Big Data Uploader - 91App
 ## Overview
-This project implements a batch data upload system using Node.js and Express.js. It's designed to allow users to upload large datasets in batches, ensuring efficient data handling and processing. The project includes an API service for handling batch uploads and a utility script for generating and uploading test data.
+This project implements a big data upload system using Node.js and Express.js. It's designed to allow users to upload large datasets in batches, ensuring efficient data handling and processing. The project includes an API service for handling batch uploads and a utility script for generating and uploading test data.
 
 ## Features
 * **API Service**: A RESTful API that supports creating upload sessions, uploading data in batches, and finalizing sessions while validating the total records uploaded.
