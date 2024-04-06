@@ -43,5 +43,5 @@ node dataUploader.js
 ```
 Follow the prompts to specify how many records you want to upload. The script will create an upload session, upload the data in batches, and finalize the session.
 
-### Demo
+### Demo (Youtube Video 👇)
 [![Demo Video](https://img.youtube.com/vi/6vHIcJhai2Y/maxresdefault.jpg)](https://youtu.be/6vHIcJhai2Y)
