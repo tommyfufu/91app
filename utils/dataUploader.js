@@ -1,8 +1,8 @@
 const axios = require('axios');
 const readline = require('readline');
 
-const baseURL = 'http://localhost:3000/api/upload';
-var recordsPerBatch = 1000;
+const baseURL = process.env.API_BASE_URL || 'http://localhost:3000/api/upload';
+const recordsPerBatch = 10000;
 
 const rl = readline.createInterface({
     input: process.stdin,
